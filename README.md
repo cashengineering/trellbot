@@ -1,7 +1,5 @@
 # Trellbot
 
------
-
 ## Project Summary
 
 This project was started with a co-contributor in summer of 2020, and ended in fall of 2020.
